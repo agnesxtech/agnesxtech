@@ -4,7 +4,7 @@ I'm an **aspiring Front-End Web Developer** passionate about designing clean, re
 
 ### 🌱 Currently Learning:
 - Front-end development through **CodeFree**
-- Preparing for a **4-week internship at CodSoft**
+- Preparing for a **4-week internship at CodeAlpha**
 - Building personal projects with **VS Code & GitHub**
 
 ### 🔧 Tech Stack:
@@ -13,7 +13,7 @@ I'm an **aspiring Front-End Web Developer** passionate about designing clean, re
 - Git & GitHub
 
 ### 🎯 Goals:
-- Complete CodSoft Internship (July 2025)
+- Complete CodeAlpha july  Internship (July 2025)
 - Upload weekly projects and growth progress
 - Build a full portfolio and start freelancing by 2026
 
